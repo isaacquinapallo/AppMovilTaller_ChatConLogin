@@ -14,7 +14,7 @@ Proyecto realizado con [Ionic Framework](https://ionicframework.com/) y [Firebas
 ---
 
 ## 📁 Estructura de carpetas principal
-
+```Estructura
 IONIC-FIREBASE-LOGIN/
 ├── src/
 │ ├── app/
@@ -29,7 +29,7 @@ IONIC-FIREBASE-LOGIN/
 ├── package.json
 ├── README.md
 └── ...
-
+```
 
 ---
 
